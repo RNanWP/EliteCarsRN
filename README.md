@@ -2,13 +2,13 @@
 Este é um projeto simples de um sistema de gerenciamento de clientes e vendas para uma concessionária de carros, criado em Python com uma interface gráfica. O usuário pode inserir, atualizar, deletar e visualizar clientes e vendas.
 
 ## Funcionalidades
-
+<br>
 - *Gerenciamento de Clientes:*
 - **Adicionar novos clientes com nome, CPF e RG.**
 - **Atualizar informações de clientes existentes.**
 - **Deletar clientes.**
 - **Visualizar a lista de todos os clientes.**
-  
+<br>
 - *Gerenciamento de Vendas:*
 - Registrar vendas com data, valor, ID do cliente e modelo do carro.
 - Atualizar informações de vendas.

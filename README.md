@@ -8,7 +8,7 @@ Este é um projeto simples de um sistema de gerenciamento de clientes e vendas p
 - **Atualizar informações de clientes existentes.**
 - **Deletar clientes.**
 - **Visualizar a lista de todos os clientes.**
-- 
+
 - *Gerenciamento de Vendas:*
 - Registrar vendas com data, valor, ID do cliente e modelo do carro.
 - Atualizar informações de vendas.

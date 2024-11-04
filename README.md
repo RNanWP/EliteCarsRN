@@ -3,13 +3,13 @@ Este é um projeto simples de um sistema de gerenciamento de clientes e vendas p
 
 ## Funcionalidades
 
-- * Gerenciamento de Clientes:
-- ** Adicionar novos clientes com nome, CPF e RG.
-- ** Atualizar informações de clientes existentes.
-- ** Deletar clientes.
-- ** Visualizar a lista de todos os clientes.
+- *Gerenciamento de Clientes:*
+- **Adicionar novos clientes com nome, CPF e RG.**
+- **Atualizar informações de clientes existentes.**
+- **Deletar clientes.**
+- **Visualizar a lista de todos os clientes.**
   
-- * Gerenciamento de Vendas:
+- *Gerenciamento de Vendas:*
 - Registrar vendas com data, valor, ID do cliente e modelo do carro.
 - Atualizar informações de vendas.
 - Deletar vendas.

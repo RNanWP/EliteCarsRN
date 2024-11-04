@@ -1,4 +1,4 @@
-# 🚗 Concessionária de Carros
+# 🚗 EliteCars RN
 Este é um projeto simples de um sistema de gerenciamento de clientes e vendas para uma concessionária de carros, criado em Python com uma interface gráfica. O usuário pode inserir, atualizar, deletar e visualizar clientes e vendas.
 
 ## Funcionalidades
